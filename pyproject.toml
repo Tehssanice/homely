@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "my-home-project"
+name = "homely"
 version = "0.1.0"
 description = ""
-authors = ["el-collins <charlescollins476@gmail.com>"]
+authors = ["tessychidubem <tessychidubem@gmail.com>"]
 license = "MIT"
 readme = "README.md"
 
